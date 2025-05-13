@@ -51,8 +51,8 @@ All calculations are traceable, and no macros are used.
 ## 📬 Contact
 
 **M. Rahmanian Shahri**  
-📧 [Your email or GitHub profile link]  
-🔗 [LinkedIn profile link, optional]
+📧 rahmanian.s.meysam@gmail.com
+🔗 LinkedIn
 
 ---
 
